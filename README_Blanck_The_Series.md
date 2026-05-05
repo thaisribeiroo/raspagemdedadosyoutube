@@ -92,11 +92,6 @@ API_KEY = "sua_chave_aqui"
 
 ---
 
-## 📬 Contato
 
-- 💼 [LinkedIn](#) ← *adicione seu link aqui*
-- 📧 *seu@email.com*
-
----
 
 > *Projeto desenvolvido para estudo e prática de análise de dados com Python e APIs públicas.* 🚀
