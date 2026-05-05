@@ -72,7 +72,7 @@ Blanck_the_series/
 ## 🔗 Links do Projeto
 
 - 📊 **Dashboard interativo:** [Looker Studio](https://datastudio.google.com/reporting/ba1a21d2-0e13-46e4-bfdd-9cc72cafc019)
-- 📝 **Artigo no LinkedIn:** [adicione o link aqui]
+- 📝 **Artigo no LinkedIn:** [Minha curiosidade virou análise: Quando dados explicam um fandom](https://www.linkedin.com/pulse/minha-curiosidade-virou-an%C3%A1lise-quando-dados-explicam-ribeiro--vrule)
 
 ---
 
