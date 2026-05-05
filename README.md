@@ -1,2 +1,3 @@
-# raspagemdedadosyoutube
-Projeto independente de análise de dados | Python • YouTube API • Looker Studio • Google Colab
+git rm README.md
+git commit -m "Remove README"
+git push
